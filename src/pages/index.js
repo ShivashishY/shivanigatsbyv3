@@ -24,7 +24,7 @@ const IndexPage = () => {
 						Hello there, welcome to my portfolio. I'm a passionate Project & Operation Manager currently working as an Operation Associate - Campaign at galleri5 based in Bangalore.
 						</p>
 						<DownloadButton
-							href="https://github.com/ShivashishY/shivanigatsbyv3/raw/main/Shivani%20Yadav%20-%20Operation%20Associate.pdf"
+							href="https://github.com/ShivashishY/shivanigatsbyv3/raw/main/Shivani%20Yadav%20-%20Operation%20Associate%20.pdf"
 							download
 							title="Resume"
 						>

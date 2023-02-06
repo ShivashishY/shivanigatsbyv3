@@ -21,6 +21,6 @@ export default [
   },
   {
     label: 'Download Portfolio',
-    path: 'https://github.com/ShivashishY/shivanigatsbyv3/raw/main/Shivani%20Yadav%20-%20Operation%20Associate.pdf',
+    path: 'https://github.com/ShivashishY/shivanigatsbyv3/raw/main/Shivani_Portfolio.pdf',
   }
 ]
